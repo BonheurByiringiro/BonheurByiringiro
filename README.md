@@ -19,7 +19,7 @@
 
 <img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-###  About Me
+### 👨 About Me
 
 ```javascript
 const bonheur = {
@@ -148,17 +148,13 @@ const bonheur = {
 ###  GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BonheurByiringiro&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=BonheurByiringiro&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonheurByiringiro&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
 
-### 🏆 GitHub Achievements
+###  GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BonheurByiringiro&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
