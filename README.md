@@ -19,7 +19,7 @@
 
 <img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 👨‍💻 About Me
+###  About Me
 
 ```javascript
 const bonheur = {
@@ -64,7 +64,7 @@ const bonheur = {
 
 ---
 
-### � Education
+###  Education
 
 <p align="center">
   <img src="https://img.shields.io/badge/Oklahoma_Christian_University-003087?style=for-the-badge&logo=google-scholar&logoColor=white" alt="OC University"/>
@@ -72,14 +72,14 @@ const bonheur = {
 
 **Dual Degree Program** | Edmond, Oklahoma | Expected May 2026
 
-- �� **B.S. in Computer Science** with Cyber Security specialization
-- 🤖 **M.S. in Artificial Intelligence**
-- 🔐 Specialization: **Cloud Security Architecture**, **AI Security**, and **Offensive Security**
-- 🎯 Career Path: **Cloud Security Engineer** → **Security Architect**
+-  **B.S. in Computer Science** with Cyber Security specialization
+-  **M.S. in Artificial Intelligence**
+-  Specialization: **Cloud Security Architecture**, **AI Security**, and **Offensive Security**
+-  Career Path: **Cloud Security Engineer** → **Security Architect**
 
 ---
 
-### 🔐 Security Focus Areas
+###  Security Focus Areas
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30"> **Cloud Security**: Securing AWS, Azure, and GCP infrastructures with Zero Trust principles
 
@@ -91,7 +91,7 @@ const bonheur = {
 
 ---
 
-### 🌐 Connect With Me
+###  Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/bonheur-byiringiro-0a65092bb">
@@ -107,7 +107,7 @@ const bonheur = {
 
 ---
 
-### � Security Tools & Technologies
+###  Security Tools & Technologies
 
 **Cloud Security Platforms**
 <p align="center">
@@ -145,7 +145,7 @@ const bonheur = {
 
 ---
 
-### 📊 GitHub Statistics
+###  GitHub Statistics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BonheurByiringiro&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
@@ -166,7 +166,7 @@ const bonheur = {
 
 ---
 
-### 📈 Contribution Graph
+###  Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BonheurByiringiro&custom_title=Bonheur's%20Contribution%20Graph&bg_color=0d1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Contribution Graph"/>
