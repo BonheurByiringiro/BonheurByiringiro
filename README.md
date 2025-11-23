@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3BFFF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Securing+the+digital+future;Cloud+Security+%7C+Penetration+Testing+%7C+AI+Security;Building+secure%2C+resilient+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3BFFF7&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Securing+the+digital+future;Cloud+Security+%7C+Penetration+Testing+%7C+AI+Security;Building+secure%2C+resilient+systems" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views & Social Badges -->
@@ -64,7 +64,7 @@ const bonheur = {
 
 ---
 
-###  Education
+### � Education
 
 <p align="center">
   <img src="https://img.shields.io/badge/Oklahoma_Christian_University-003087?style=for-the-badge&logo=google-scholar&logoColor=white" alt="OC University"/>
@@ -72,10 +72,10 @@ const bonheur = {
 
 **Dual Degree Program** | Edmond, Oklahoma | Expected May 2026
 
--  **B.S. in Computer Science** with Cyber Security specialization
--  **M.S. in Artificial Intelligence**
--  Specialization: **Cloud Security Architecture**, **AI Security**, and **Offensive Security**
--  Career Path: **Cloud Security Engineer** → **Security Architect**
+- �� **B.S. in Computer Science** with Cyber Security specialization
+- 🤖 **M.S. in Artificial Intelligence**
+- 🔐 Specialization: **Cloud Security Architecture**, **AI Security**, and **Offensive Security**
+- 🎯 Career Path: **Cloud Security Engineer** → **Security Architect**
 
 ---
 
@@ -107,7 +107,7 @@ const bonheur = {
 
 ---
 
-###  Security Tools & Technologies
+### � Security Tools & Technologies
 
 **Cloud Security Platforms**
 <p align="center">
@@ -145,7 +145,7 @@ const bonheur = {
 
 ---
 
-###  GitHub Statistics
+### 📊 GitHub Statistics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BonheurByiringiro&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
@@ -167,7 +167,7 @@ const bonheur = {
 
 ---
 
-###  Contribution Graph
+### 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BonheurByiringiro&custom_title=Bonheur's%20Contribution%20Graph&bg_color=0d1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Contribution Graph"/>
