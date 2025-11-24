@@ -162,14 +162,6 @@ const bonheur = {
 
 ---
 
-###  Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BonheurByiringiro&custom_title=Bonheur's%20Contribution%20Graph&bg_color=0d1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Contribution Graph"/>
-</p>
-
----
-
 ###  Random Dev Quote
 
 <p align="center">
